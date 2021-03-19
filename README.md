@@ -10,4 +10,4 @@ list given below
 7:'surprise'
 ### Data set is from kaggle
 ### OpenCv for face detection
-### Uses tensorflow library for CNN model0
+### Uses tensorflow library for CNN model
